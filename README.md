@@ -41,7 +41,29 @@ Mais do que reunir anotações, este projeto busca registrar minha evolução t�
 
 > **Legenda:** 🟢 Concluído · 🟠 Em andamento · ⚪ Planejado
 
-*Os status serão atualizados conforme os conteúdos forem estudados, praticados e documentados.*
+*Os status serão atualizados conforme os conteúdos forem estudados, praticados e documentados.* 
+
+
+## 🏆 Conquistas e credenciais
+
+Badges digitais conquistadas durante minha jornada de aprendizagem em computação da nuvem AWS.
+
+### ☁️ AWS Educate
+
+<p align="center">
+  <a href="https://www.credly.com/badges/97a6a7a8-dbe2-447a-beed-8068ec6eb0ed/public_url">
+    <img src="assets/badges/aws-educate-cloud-101.png"
+         alt="AWS Educate Introduction to Cloud 101"
+         width="150"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>AWS Educate Introduction to Cloud 101</strong><br/>
+  <sub>Conquistada em 06/11/2026</sub>
+</p>
+
+ --- 
 
 ## 📚 Organização do repositório
 
@@ -52,7 +74,8 @@ Mais do que reunir anotações, este projeto busca registrar minha evolução t�
 | [`02-aws-services/`](02-aws-services/) | Anotações sobre serviços da AWS |
 | [`03-hands-on-labs/`](03-hands-on-labs/) | Laboratórios e exercícios práticos |
 | [`04-projects/`](04-projects/) | Projetos desenvolvidos durante a jornada |
-| [`05-glossary/`](05-glossary/) | Glossário de termos técnicos |
+| [`05-glossary/`](05-glossary/) | Glossário de termos técnicos | 
+| [`assets/badges/`](assets/badges/) | Imagens das badges e credenciais conquistadas |
 | [`resources.md`](resources.md) | Cursos, documentação oficial e referências |
 
 *As pastas serão preenchidas progressivamente conforme o projeto evoluir.*
